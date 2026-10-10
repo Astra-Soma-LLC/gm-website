@@ -5,8 +5,6 @@ description: "Need help with GiftMemories? We're here for you."
 layout: "legal"
 ---
 
-Need help with GiftMemories? We're here for you.
-
 Email us at **support@astrasoma.com** and we'll get back to you as soon as we can.
 
 ---
