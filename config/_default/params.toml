@@ -113,3 +113,9 @@ content = "This site uses cookies. By continuing to use this website, you agree 
 expire_days = 2
 
 ############################# social site ########################
+
+# Typography
+font_primary = "Inter"
+font_primary_type = "sans-serif"
+font_secondary = "Inter"
+font_secondary_type = "sans-serif"

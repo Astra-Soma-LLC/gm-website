@@ -4,11 +4,26 @@
   <div class="container">
     <div class="row">
       <div class="col-md-10 m-auto">
-        <div class="content">
+        <div class="content legal-content">
           {{ .Content }}
         </div>
       </div>
     </div>
   </div>
 </section>
+<style>
+  .legal-content table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    width: 100%;
+    font-size: 14px;
+  }
+  .legal-content table th,
+  .legal-content table td {
+    min-width: 120px;
+    padding: 8px 12px;
+    white-space: normal;
+  }
+</style>
 {{ end }}
