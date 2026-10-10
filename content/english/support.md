@@ -13,7 +13,7 @@ Email us at **support@astrasoma.com** and we'll get back to you as soon as we ca
 
 ### How do I restore my purchases?
 
-Open GiftMemories, go to the Settings tab, tap Subscription, then tap Restore Purchases. Your Pro subscription comes back on any iPhone signed in with the same Apple ID you used to buy it.
+Open GiftMemories, go to the Settings tab, tap Subscription, then tap Restore Purchases. Your Premium subscription comes back on any iPhone signed in with the same Apple ID you used to buy it.
 
 ### Where is my data stored?
 
@@ -25,7 +25,7 @@ You can delete individual gifts, people, or occasions from within the app at any
 
 ### What is the free tier limit?
 
-GiftMemories is free for up to 20 active people. An active person is anyone with at least one gift or idea. You and the Undecided person never count. Archived people still count. You can track unlimited gifts and ideas for those 20 people. To add more people, upgrade to Pro for unlimited people.
+GiftMemories is free for up to 20 active people. An active person is anyone with at least one gift or idea. You, and gifts with no person chosen, never count. Archived people still count. You can track unlimited gifts and ideas for those 20 people. To add more people, upgrade to Premium for unlimited people.
 
 ### How do I cancel my subscription?
 
