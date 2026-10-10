@@ -1,0 +1,31 @@
+################ Navigation English #################
+
+# main menu
+[[main]]
+name = "Support"
+URL = "support/"
+weight = 1
+
+[[main]]
+name = "Privacy"
+URL = "privacy/"
+weight = 2
+
+[[main]]
+name = "Terms"
+URL = "terms/"
+weight = 3
+
+
+# footer menu
+[[footer]]
+name = "Support"
+URL = "support/"
+
+[[footer]]
+name = "Privacy"
+URL = "privacy/"
+
+[[footer]]
+name = "Terms"
+URL = "terms/"

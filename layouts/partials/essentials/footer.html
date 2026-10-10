@@ -1,0 +1,18 @@
+<footer class="footer-main">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <div class="block">
+          <ul class="list-inline mb-5">
+            {{ range .Site.Menus.footer }}
+            <li class="list-inline-item mx-3"><a class="text-white" href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
+            {{ end }}
+          </ul>
+          <p class="content copyright mt-4">
+            {{ site.Params.copyright | markdownify }}
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
