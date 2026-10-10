@@ -17,13 +17,29 @@
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
     width: 100%;
-    font-size: 14px;
+    border-collapse: collapse;
+    margin: 1.5rem 0;
   }
-  .legal-content table th,
-  .legal-content table td {
+  .legal-content table th {
+    background: #f5f5f5;
+    color: #333;
+    font-weight: 600;
+    padding: 10px 14px;
+    border: 1px solid #ddd;
+    font-size: 14px;
     min-width: 120px;
-    padding: 8px 12px;
+  }
+  .legal-content table td {
+    background: #fff;
+    color: #333;
+    padding: 10px 14px;
+    border: 1px solid #ddd;
+    font-size: 14px;
+    min-width: 120px;
     white-space: normal;
+  }
+  .legal-content table tr:nth-child(even) td {
+    background: #fafafa;
   }
 </style>
 {{ end }}
