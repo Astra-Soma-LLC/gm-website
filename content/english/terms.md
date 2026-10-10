@@ -23,12 +23,12 @@ You agree to use the App only for lawful purposes and in accordance with these T
 
 GiftMemories offers two tiers:
 
-- **Free** — up to 20 active people. An active person is anyone with at least one gift or idea. You and the Undecided person never count. Archived people still count. You can track unlimited gifts and ideas for those 20 people.
-- **Pro** — Annual subscription at the price shown in the App Store. Unlimited active people. If your subscription lapses, all data stays readable and editable, but you cannot add new active people beyond the free limit.
+- **Free** — up to 20 active people. An active person is anyone with at least one gift or idea. You, and gifts with no person chosen, never count. Archived people still count. You can track unlimited gifts and ideas for those 20 people.
+- **Premium** — Annual subscription at the price shown in the App Store. Unlimited active people. If your subscription lapses, all data stays readable and editable, but you cannot add new active people beyond the free limit.
 
 ### Auto-Renewal
 
-Pro subscriptions automatically renew at the end of each subscription period unless you cancel at least 24 hours before the end of the current period. Your Apple ID account will be charged for renewal within 24 hours prior to the end of the current period.
+Premium subscriptions automatically renew at the end of each subscription period unless you cancel at least 24 hours before the end of the current period. Your Apple ID account will be charged for renewal within 24 hours prior to the end of the current period.
 
 ### How to Cancel
 
