@@ -11,41 +11,53 @@ Email us at **support@astrasoma.com** and we'll get back to you as soon as we ca
 
 ## Frequently Asked Questions
 
-### How do I restore my purchases?
+### How do I contact support?
 
-Open GiftMemories, go to the Settings tab, tap Subscription, then tap Restore Purchases. Your Premium subscription comes back on any iPhone signed in with the same Apple ID you used to buy it.
+Email us at **support@astrasoma.com**. Please include what happened, what you expected, your iPhone model, and your iOS version. Screenshots are always helpful.
 
-### Where is my data stored?
+### What's included for free?
 
-All of your data is stored on your iPhone. If you enable iCloud sync, a copy is also stored in your personal iCloud account where Apple encrypts it in transit and at rest. Astra Soma LLC does not have access to your data in either case.
+The free plan lets you track up to 100 gifts and ideas at no cost. There's no limit on people. Each gift or idea counts once toward the limit regardless of its state, direction, or number of recipients. Deleting a gift or idea frees a slot.
 
-### How do I delete my data?
+### How do I upgrade to GiftMemories Premium?
 
-You can delete individual gifts, people, or occasions from within the app at any time. Uninstalling removes the data on this iPhone. If you use iCloud sync, also delete it in iPhone Settings > [your name] > iCloud > Manage Storage > GiftMemories.
+In GiftMemories, open **Settings › Subscription** and choose GiftMemories Premium (US$9.99/year; your local price is shown in the app). Payment is charged to your Apple ID. It renews automatically each year until you cancel. Premium removes the limit of 100 gifts and ideas, giving you unlimited gifts and ideas.
 
-### What is the free tier limit?
+### Does GiftMemories support Family Sharing?
 
-GiftMemories is free for up to 20 active people. An active person is anyone with at least one gift or idea. You, and gifts with no person chosen, never count. Archived people still count. You can track unlimited gifts and ideas for those 20 people. To add more people, upgrade to Premium for unlimited people.
+Yes. GiftMemories Premium supports Apple Family Sharing. One subscription covers you and up to five family members. Each family member keeps their own separate data. Family members get Premium automatically when they open the app; no restore needed.
+
+### How do I restore my purchase on a new device?
+
+In GiftMemories, open **Settings › Subscription › Restore Purchases**. This works on any iPhone signed into the same Apple ID that made the original purchase. You can also tap Restore Purchases on the upgrade screen.
+
+### How do I redeem an offer code?
+
+In GiftMemories, open **Settings › Subscription › Redeem Code**, or redeem it through the App Store. Offer codes may provide a discount or a free period of GiftMemories Premium.
 
 ### How do I cancel my subscription?
 
-Go to iPhone Settings > [your name] > Subscriptions > GiftMemories and tap Cancel Subscription. You'll keep access to unlimited people until the end of your current billing period.
+Open **Settings › [your name] › Subscriptions** on your iPhone. Cancellation takes effect at the end of the current billing period. You keep full access until then.
 
-### What happens if my subscription ends?
+### What happens when my subscription ends?
 
-All your data stays safe, readable, and editable. You can still view and edit all your gifts, people, and occasions. The only change is that you cannot add new active people beyond the free limit of 20. You can resubscribe at any time to lift the limit.
+All your data stays readable, editable, and deletable. You can continue to manage everything you already have. You simply cannot add new gifts or ideas beyond the free limit of 100 gifts and ideas until you resubscribe.
 
-### Does Family Sharing work?
+### How do I get a refund?
 
-GiftMemories does not currently support Family Sharing for subscriptions. Each person needs their own subscription.
+All purchases are processed by Apple. To request a refund, visit [reportaproblem.apple.com](https://reportaproblem.apple.com). Astra Soma LLC cannot issue refunds directly.
 
-### How do I move to a new iPhone?
+### Where is my data stored?
 
-If you have iCloud sync enabled, sign in with the same Apple ID on your new iPhone and your data will sync automatically. If you don't use iCloud sync, use Apple's standard device transfer or backup process to move your data.
+Your data is stored on your iPhone. If you turn on iCloud sync, a copy is also kept in your private iCloud account. Astra Soma LLC can't see your gifts, people, or occasions. For details on analytics, purchase and crash data we do receive, see our [Privacy Policy](/privacy/).
 
-### I found a bug. How do I report it?
+### How do I delete my data?
 
-Email us at **support@astrasoma.com** with a description of what happened, what you expected to happen, and your iPhone model and iOS version. Screenshots help.
+Delete gifts, ideas, and occasions in the app. People without gifts can be deleted; people with gifts can be archived. Uninstalling the app removes all data on that iPhone. If you use iCloud sync, you can also delete the iCloud data separately through iPhone Settings › [your name] › iCloud › Manage Storage.
+
+### How do I switch to a new iPhone?
+
+If you use iCloud sync, just sign in with the same Apple ID on your new iPhone and your data will appear. Without iCloud sync, use Apple's built-in device transfer or backup/restore process.
 
 ---
 

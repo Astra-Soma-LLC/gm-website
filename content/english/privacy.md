@@ -5,7 +5,7 @@ description: "Privacy Policy for GiftMemories by Astra Soma LLC"
 layout: "legal"
 ---
 
-**Last updated October 09, 2026**
+**Last updated October 11, 2026**
 
 This Privacy Policy for Astra Soma LLC ("we," "us," or "our") describes how and why we might access, collect, store, use, and/or share ("process") your information when you use our services ("Services"), including when you:
 
@@ -16,13 +16,13 @@ This Privacy Policy for Astra Soma LLC ("we," "us," or "our") describes how and 
 
 ## SUMMARY OF KEY POINTS
 
-**What personal information do we process?** When you use our Services, we do not require you to create an account or provide personal information. All data you enter into GiftMemories (gifts, people, occasions, budgets, photos, and notes) is stored on your device and, if you choose, in your personal iCloud account. We do not have access to this data.
+**What personal information do we process?** When you use our Services, we do not require you to create an account or provide personal information. All data you enter into GiftMemories (gifts, people, occasions, budgets, photos, and notes) is stored on your device and, if you choose, in your personal iCloud account. We cannot see your gifts, people, or occasions.
 
 **Do we process any sensitive personal information?** We do not process sensitive personal information.
 
 **Do we collect any information from third parties?** We do not collect any information from third parties.
 
-**How do we process your information?** We collect pseudonymous usage analytics and crash reports through Firebase (operated by Google) to improve the app. This data is not linked to your identity.
+**How do we process your information?** We collect pseudonymous usage analytics (including upgrade-screen and purchase events) and crash reports through Firebase (operated by Google) to improve the app. This data is not linked to your identity.
 
 **In what situations and with which parties do we share personal information?** We may share pseudonymous analytics and crash data with Google through Firebase. We do not share your personal content with anyone.
 
@@ -45,7 +45,7 @@ For more information about how Apple handles iCloud data, see [Apple's iCloud se
 
 ### Contacts
 
-GiftMemories can import people from your iPhone's Contacts app, with your permission. When you grant access, the app reads:
+When you choose to import people from Contacts and grant access, the app reads:
 
 - First and last name
 - Birthday
@@ -55,7 +55,15 @@ GiftMemories can import people from your iPhone's Contacts app, with your permis
 
 This contact information is stored only on your device (and in your iCloud if sync is enabled). It is never sent to Astra Soma LLC, Firebase, or any other third party. You can also add people manually without granting Contacts access.
 
-You can revoke Contacts permission at any time in your iPhone's Settings > Privacy & Security > Contacts.
+You can revoke Contacts permission at any time in your iPhone's Settings › Privacy & Security › Contacts.
+
+### Photos and Camera
+
+GiftMemories may request access to your camera or photo library when you attach a photo to a gift or receipt. Photos you add are stored on your device (and in your iCloud if sync is enabled). They are never sent to Astra Soma LLC or any third party. You can revoke camera or photo library access at any time in your iPhone's Settings › Privacy & Security › Photos / Camera.
+
+### Share Extension
+
+When you share a link, page, or image into GiftMemories from another app, the app reads what you shared and saves it on your device (and in iCloud if sync is on). It is never sent to us.
 
 ### Information we do NOT collect
 
@@ -63,11 +71,11 @@ GiftMemories does not require an account, email address, or sign-up of any kind.
 
 - Your name, email address, or phone number
 - The names, emails, or phone numbers of people in your gift lists
-- Gift names, prices, photos, or notes
+- Gift names, gift prices, photos, or notes
 - Your precise location
 - Any information that identifies you personally
 
-We do not sell, share, or rent personal information to anyone.
+We do not sell or rent personal information, and we do not share it for advertising.
 
 ### Information automatically collected
 
@@ -75,13 +83,13 @@ We automatically collect certain information when you use the Services. This inf
 
 The information we collect includes:
 
-- **Log and Usage Data.** Usage data collected through Firebase Analytics, including which features are used and how often (for example, how many gifts are created, which tabs are viewed), your currency setting, and event counts. This data is pseudonymous and is not linked to your identity. Firebase Analytics does **not** collect gift names, person names, prices, photos, email addresses, phone numbers, or any content you enter into the app.
+- **Log and Usage Data.** Usage data collected through Firebase Analytics, including which features are used and how often (for example, how many gifts are created, which tabs are viewed), your currency setting, and event counts. Analytics also records when the upgrade screen is shown and when a purchase completes, including the product, price, and currency. Purchase events are pseudonymous and never include your Apple ID or payment details. Firebase Analytics does **not** collect gift names, person names, photos, email addresses, phone numbers, or any content you enter into the app.
 - **Device Data.** Device information such as your iPhone model, iOS version, app version, and application identification numbers. Firebase may derive an approximate region from your IP address, but we do not collect precise location or GPS data, phone number, or mobile carrier information.
 - **Crash Data.** When the app encounters an error, Firebase Crashlytics collects crash reports including stack traces, device model, operating system version, and app state at the time of the crash. Crash data does not include any content you entered into the app.
 
 ### Payment data
 
-GiftMemories offers optional subscriptions through Apple's App Store. All purchases are processed by Apple using StoreKit. We do not collect or store your payment information, credit card number, or Apple ID. Apple's handling of purchase data is governed by [Apple's Privacy Policy](https://www.apple.com/legal/privacy/).
+GiftMemories offers optional subscriptions through Apple's App Store. All purchases are processed by Apple using StoreKit. We do not collect or store your payment information, credit card number, or Apple ID. We do receive pseudonymous purchase events through Firebase Analytics (see above). Apple's handling of purchase data is governed by [Apple's Privacy Policy](https://www.apple.com/legal/privacy/).
 
 ### Notifications
 
@@ -95,11 +103,11 @@ Specifically, we use pseudonymous analytics data to understand which features ar
 
 ## 3. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
 
-We may share pseudonymous analytics and crash data with the following third-party service providers:
+We use the following third-party service providers:
 
 | Service | Operated by | What it receives | Linked to identity | Used for tracking |
 | --- | --- | --- | --- | --- |
-| Firebase Analytics | Google | Pseudonymous usage events, device info | No | No |
+| Firebase Analytics | Google | Pseudonymous usage events, purchase events (product, price, currency), device info | No | No |
 | Firebase Crashlytics | Google | Crash reports, device info | No | No |
 | Firebase Remote Config | Google | Device info for config fetch | No | No |
 | iCloud (CloudKit) | Apple | Your data if sync is enabled | Only by your Apple ID | No |
@@ -123,9 +131,9 @@ Our website (astrasoma.com) is hosted on Netlify. When you visit the website, Ne
 
 ## 6. HOW LONG DO WE KEEP YOUR INFORMATION?
 
-All personal data (gifts, people, occasions, photos, notes) is stored on your device and in your iCloud account. We do not retain any of this data on our servers because we do not operate servers that store user data.
+All personal data (gifts, people, occasions, photos, notes) is stored on your device and, if sync is on, in your iCloud account. We do not retain any of this data on our servers because we do not operate servers that store user data.
 
-Firebase Analytics retains pseudonymous usage data according to Google's data retention policies. Crash reports are retained by Firebase Crashlytics according to Google's policies.
+Firebase Analytics keeps detailed usage events for 2 months and the pseudonymous app-install identifier for 14 months after your last use of the app. Firebase Crashlytics keeps crash reports and their install identifiers for 90 days, then deletes them.
 
 ## 7. HOW DO WE KEEP YOUR INFORMATION SAFE?
 
@@ -135,19 +143,21 @@ However, despite our safeguards, no electronic transmission over the Internet or
 
 ## 8. DO WE COLLECT INFORMATION FROM MINORS?
 
-We do not knowingly collect, solicit data from, or market to children under 13 years of age. By using the Services, you represent that you are at least 13 or that you are the parent or guardian of such a minor and consent to such minor's use of the Services. We hold no personal content from any user, including minors. Pseudonymous analytics data held by Firebase is not tied to your name. If you become aware of any data we may have collected from children under age 13, please contact us at privacy@astrasoma.com.
+We do not knowingly collect, solicit data from, or market to children under 13 years of age. By using the Services, you represent that you are at least 13 and, if under 18, have a parent or guardian's consent. We hold no personal content from any user, including minors. Pseudonymous analytics data held by Firebase is not tied to your name. If you become aware of any data we may have collected from children under age 13, please contact us at privacy@astrasoma.com.
 
 ## 9. WHAT ARE YOUR PRIVACY RIGHTS?
 
-Depending on your state of residence in the US, you may have rights that allow you greater access to and control over your personal information.
+Depending on your state of residence in the US, or your country of residence, you may have rights that allow you greater access to and control over your personal information.
 
 All of your data is under your control:
 
-- **Delete individual items:** Delete any gift, person, or occasion from within the app at any time.
-- **Delete all data:** Uninstall removes data on this phone. If you use iCloud sync, also delete iCloud data in iPhone Settings > [your name] > iCloud > Manage Storage > GiftMemories.
+- **Delete individual items:** Delete gifts, ideas, and occasions in the app. People without gifts can be deleted; people with gifts can be archived.
+- **Delete all data:** Uninstall removes data on this phone. If you use iCloud sync, also delete iCloud data in iPhone Settings › [your name] › iCloud › Manage Storage › GiftMemories.
 - **Disable analytics:** There is no in-app analytics opt-out yet; email privacy@astrasoma.com if you have questions about analytics data.
 
 We hold no personal content on our servers. Pseudonymous analytics data held by Firebase is not tied to your name or contact details.
+
+**Canada.** Residents of Canada can ask to see or correct their personal information under PIPEDA by writing to privacy@astrasoma.com.
 
 If you have questions or comments about your privacy rights, email us at privacy@astrasoma.com.
 
@@ -163,9 +173,9 @@ If you are a resident of California, Colorado, Connecticut, Delaware, Florida, I
 
 **Categories of Personal Information We Collect**
 
-We collect device identifiers and app usage data through Firebase for analytics. We do not sell or share them for advertising. We have not collected personal information in the following categories in the past twelve (12) months: personal information under the California Customer Records statute, protected classification characteristics, commercial information, biometric information, geolocation data, sensory data, professional or employment data, education information, or inferences drawn from the above.
+We collect device identifiers and app usage data through Firebase for analytics. We do not sell or share them for advertising. We have not collected personal information in the following categories in the past twelve (12) months: personal information under the California Customer Records statute, protected classification characteristics, biometric information, geolocation data, sensory data, professional or employment data, education information, or inferences drawn from the above. We collect pseudonymous purchase records (product, price, currency) through Firebase Analytics.
 
-We do not sell or share personal information as those terms are defined under California law. We disclose device identifiers and usage data to Google (Firebase) as a service provider for analytics and crash reporting.
+We do not sell or share personal information as those terms are defined under California law. We disclose device identifiers, usage and purchase event data to Google (Firebase) as a service provider for analytics and crash reporting.
 
 **Your Rights**
 
@@ -193,10 +203,15 @@ We may update this Privacy Policy from time to time. The updated version will be
 
 ## 13. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 
-If you have questions or comments about this notice, you may email us at privacy@astrasoma.com.
+If you have questions or comments about this notice, you may contact us at:
+
+**Astra Soma LLC**
+2108 N St, Ste N
+Sacramento, CA 95816
+privacy@astrasoma.com
 
 ## 14. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
-All of your data is stored on your device and, if enabled, in your personal iCloud account. You have full control over it at all times. You can delete any data from within the app, or remove all data on this phone by uninstalling the app. To delete synced data from iCloud, go to iPhone Settings > [your name] > iCloud > Manage Storage > GiftMemories.
+All of your data is stored on your device and, if enabled, in your personal iCloud account. You have full control over it at all times. Delete gifts, ideas, and occasions in the app. People without gifts can be deleted; people with gifts can be archived. Uninstalling removes all data on this phone. To delete synced data from iCloud, go to iPhone Settings › [your name] › iCloud › Manage Storage › GiftMemories.
 
 We hold no personal content on our servers. Pseudonymous analytics data held by Firebase is not tied to your name. If you have questions, please visit astrasoma.com/support or contact us at privacy@astrasoma.com.
