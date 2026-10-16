@@ -2,8 +2,8 @@
 
 # main menu
 [[main]]
-name = "Support"
-URL = "support/"
+name = "Blog"
+URL = "blog/"
 weight = 1
 
 [[main]]
@@ -16,16 +16,29 @@ name = "Terms"
 URL = "terms/"
 weight = 3
 
+[[main]]
+name = "Support"
+URL = "support/"
+weight = 4
+
 
 # footer menu
 [[footer]]
-name = "Support"
-URL = "support/"
+name = "Blog"
+URL = "blog/"
+weight = 1
 
 [[footer]]
 name = "Privacy"
 URL = "privacy/"
+weight = 2
 
 [[footer]]
 name = "Terms"
 URL = "terms/"
+weight = 3
+
+[[footer]]
+name = "Support"
+URL = "support/"
+weight = 4
