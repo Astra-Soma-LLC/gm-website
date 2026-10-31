@@ -1,6 +1,6 @@
 ---
 title: "Frequently Asked Questions"
-draft: false
+draft: true
 description : "Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta."
 layout: "faq"
 
