@@ -1,5 +1,4 @@
 ---
 title: "Blog"
-draft: false
-description : "Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta."
+description: "Gift budgeting tips, holiday planning guides, and smart spending advice from GiftMemories."
 ---

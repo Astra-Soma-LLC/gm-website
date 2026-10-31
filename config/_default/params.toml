@@ -45,7 +45,7 @@ preloader = "" # use jpg, png, svg or gif format. example: "images/preloader.gif
 # contact info
 [contact_info]
 address = "Astra Soma LLC"
-email = "astrosomallc@gmail.com"
+email = "astrasomallc@gmail.com"
 mobile = ""
 
 # Crisp Chat

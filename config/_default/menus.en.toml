@@ -7,11 +7,6 @@ URL = "blog/"
 weight = 1
 
 [[main]]
-name = "FAQ"
-URL = "faq/"
-weight = 2
-
-[[main]]
 name = "Privacy"
 URL = "privacy/"
 weight = 3
@@ -31,11 +26,6 @@ weight = 5
 name = "Blog"
 URL = "blog/"
 weight = 1
-
-[[footer]]
-name = "FAQ"
-URL = "faq/"
-weight = 2
 
 [[footer]]
 name = "Privacy"
